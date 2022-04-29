@@ -1,0 +1,17 @@
+{
+    "name": "aleksandroveugen/brackets-checker",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "AleksandrovEugen\\BracketsChecker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eugen Aleksandrov",
+            "email": "aleksandrov.eugen@gmail.com"
+        }
+    ],
+    "require": {}
+}
